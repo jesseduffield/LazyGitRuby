@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 # to run this script with ruby lgit.rb you'll need to first gem install bundler
+# then you can add `alias lg=ruby ~/LazyGit/lgit.rb` to your ~/.zshrc and use it whenever you want
 require 'bundler/inline'
 
 gemfile do
